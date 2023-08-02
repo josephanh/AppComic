@@ -1,0 +1,83 @@
+{
+    "current": {
+        "_children": [
+            [ReactNativeFiberHostComponent
+            ]
+        ],
+        "_internalFiberInstanceHandleDEV": {
+            "_debugHookTypes": null,
+            "_debugNeedsRemount": false,
+            "_debugOwner": [FiberNode
+            ],
+            "_debugSource": undefined,
+            "actualDuration": 16.856800012290478,
+            "actualStartTime": 10004945.9763,
+            "alternate": [FiberNode
+            ],
+            "child": [FiberNode
+            ],
+            "childLanes": 0,
+            "deletions": null,
+            "dependencies": null,
+            "elementType": "RCTScrollView",
+            "flags": 4,
+            "index": 0,
+            "key": null,
+            "lanes": 0,
+            "memoizedProps": [Object
+            ],
+            "memoizedState": null,
+            "mode": 2,
+            "pendingProps": [Object
+            ],
+            "ref": [Function forwardRef
+            ],
+            "return": [FiberNode
+            ],
+            "selfBaseDuration": 0.06399999931454659,
+            "sibling": null,
+            "stateNode": [Circular
+            ],
+            "subtreeFlags": 8391173,
+            "tag": 5,
+            "treeBaseDuration": 52.1231999900192,
+            "type": "RCTScrollView",
+            "updateQueue": null
+        },
+        "_nativeTag": 5639,
+        "flashScrollIndicators": [Function anonymous
+        ],
+        "getInnerViewNode": [Function anonymous
+        ],
+        "getInnerViewRef": [Function anonymous
+        ],
+        "getNativeScrollRef": [Function anonymous
+        ],
+        "getScrollResponder": [Function anonymous
+        ],
+        "getScrollableNode": [Function anonymous
+        ],
+        "handlerTag": 17,
+        "scrollResponderScrollNativeHandleToKeyboard": [Function anonymous
+        ],
+        "scrollResponderZoomTo": [Function anonymous
+        ],
+        "scrollTo": [Function anonymous
+        ],
+        "scrollToEnd": [Function anonymous
+        ],
+        "viewConfig": {
+            "Commands": [Object
+            ],
+            "NativeProps": [Object
+            ],
+            "bubblingEventTypes": [Object
+            ],
+            "directEventTypes": [Object
+            ],
+            "uiViewClassName": "RCTScrollView",
+            "validAttributes": [Object
+            ]
+        }
+    }
+}
