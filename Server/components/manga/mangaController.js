@@ -94,6 +94,7 @@ const reader = async (idUser, idStory) => {
         return await mangaService.reader(idUser, idStory);
     } catch (error) {
         throw error;
+        
     }
 }
 
